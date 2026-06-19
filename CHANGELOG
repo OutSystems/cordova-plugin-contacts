@@ -1,1 +1,12 @@
+## [3.0.1-OS8]
+
+### 2026-06-19
+
+- chore: Revert "test commit"
+- chore: test commit
+- ci: Trigger release on push to main (#18)
+- refactor: Correct PR template
+- ci: Release and Changelog automation (#17)
+
+
 
